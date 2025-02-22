@@ -73,4 +73,4 @@ For any inquiries or feedback, contact me through:
 
 **Legacy of the Lost** is an evolving project, and I’m excited to expand it with more puzzles and mechanics in future updates. Stay tuned! 🎮🔥  
 
-🔗 **Download Game Assets**: [Google Drive Link](https://drive.google.com/drive/folders/1a0hfCGxT_OR75Mdy30iUWrIAMzGHh1hT)
+🔗 **Download Game**: [Google Drive Link](https://drive.google.com/drive/folders/1a0hfCGxT_OR75Mdy30iUWrIAMzGHh1hT)
